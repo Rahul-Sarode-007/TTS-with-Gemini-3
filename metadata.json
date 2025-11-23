@@ -1,0 +1,5 @@
+{
+  "name": "EmotiVoice Reader",
+  "description": "An ultra-realistic AI reader using Gemini 3 Pro for direction and Gemini 2.5 for voice generation. It understands context, dialogue, and emotion to deliver human-like narration.",
+  "requestFramePermissions": []
+}
